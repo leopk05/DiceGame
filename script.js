@@ -4,8 +4,8 @@ var rigthIcon = document.querySelector(".right");
 
 
 
-var randomPlayerOne = Math.floor(Math.random() * 6);
-var randomPlayerTwo = Math.floor(Math.random() * 6);
+var randomPlayerOne = Math.floor(Math.random() * 6) + 1;
+var randomPlayerTwo = Math.floor(Math.random() * 6) + 1;
 
 if (randomPlayerOne > randomPlayerTwo){
     mainText.innerHTML = "Player 1 Won";
