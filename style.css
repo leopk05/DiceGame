@@ -1,0 +1,36 @@
+
+body{
+    font-family: 'Satisfy', cursive;
+    background-color: #4d4d4d;
+}
+
+.fa-solid{
+    visibility: hidden;
+
+}
+
+
+/*----------top container------------*/
+.main-text{
+    margin-top: 50px;
+    font-size: 10rem;
+    font-weight: bold;
+    color: #00AFA8;
+}
+
+.fa-solid{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+/*-----------mid container-------------*/
+
+.box-dice-player{
+    color: #00AFA8;
+    padding: 50px 300px 10px 300px;
+    font-size: 5rem;
+}
